@@ -7,7 +7,7 @@
 - ⚡ Programming Launguages I remember: Python,Ruby
 
 
-![]([https://github.com/RomGio/RomGio/blob/main/PF/image.gif])
+![]([https://raw.githubusercontent.com/RomGio/RomGio/refs/heads/main/PF/image.gif])
 --->
 PS Don't Ask As to why i say Remember haha i got a Memory Problem Dealing With
 --->
